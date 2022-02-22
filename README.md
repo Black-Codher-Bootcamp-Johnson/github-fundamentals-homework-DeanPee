@@ -1,3 +1,12 @@
+## Learning Outcomes for DeanPee:
+
+**I enjoyed the introduction to git and github, although I am yet to get a full grasp of the difference and how they are used.
+I feel quite confident at this point to keep progressing on the Front End Developer course by BlackCodHer and I look forward to the the exciting challenges ahead.**
+
+*I am more of a thinker than talker and writer but I do hope to finish this course with much more than the starting gusto.*
+
+
+
 # :wave: The Basics of GitHub
 
 - Read through the below content so you can understand some commonly used terms and uses of GitHub
